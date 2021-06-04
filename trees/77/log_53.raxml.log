@@ -1,0 +1,15 @@
+Partition 0: partition_0
+Model: SYM+I+G4m
+Alignment sites / patterns: 200 / 111
+Gaps: 2.86 %
+Invariant sites: 63.00 %
+Partition 1: partition_1
+Model: HKY+FO+G4m
+Alignment sites / patterns: 200 / 84
+Gaps: 2.85 %
+Invariant sites: 77.00 %
+Partition 2: partition_2
+Model: GTR+FO+I+G4m
+Alignment sites / patterns: 199 / 198
+Gaps: 2.80 %
+Invariant sites: 4.02 %

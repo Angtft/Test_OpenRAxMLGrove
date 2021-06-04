@@ -1,0 +1,10 @@
+Partition 0: partition_0
+Model: GTR+FO
+Alignment sites / patterns: 14 / 13
+Gaps: 4.83 %
+Invariant sites: 35.71 %
+Optimized model parameters:
+Partition 0: partition_0
+Rate heterogeneity: NONE
+Base frequencies (ML): 0.116192 0.336824 0.312849 0.234135
+Substitution rates (ML): 0.001000 990.358879 0.001000 0.001000 220.248386 1.000000

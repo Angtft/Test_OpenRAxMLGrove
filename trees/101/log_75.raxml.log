@@ -1,0 +1,10 @@
+Partition 0: partition_0
+Model: HKY+FO+G4m
+Alignment sites / patterns: 1348 / 174
+Gaps: 2.94 %
+Invariant sites: 77.45 %
+Optimized model parameters:
+Partition 0: partition_0
+Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.126857 (ML),  weights&rates: (0.250000,0.000010) (0.250000,0.004654) (0.250000,0.171529) (0.250000,3.823807)
+Base frequencies (ML): 0.312238 0.270789 0.120971 0.296001
+Substitution rates (ML): 1.000000 15.414477 1.000000 1.000000 15.414477 1.000000
